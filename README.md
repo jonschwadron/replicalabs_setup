@@ -12,3 +12,8 @@ git clone [https url] chef-repo
 cd chef-repo
 sudo bash setup.sh
 ```
+
+## Documentation ##
+```
+[Replica Labs: chef-solo documentation](https://goo.gl/qRKjFU)
+```
